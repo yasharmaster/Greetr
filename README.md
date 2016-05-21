@@ -1,9 +1,16 @@
-When given a first name, last name and optional language, it generates formal and informal greetings.
+#Greetr
 
-Supports English and Spanish languages.
+A javascript library that lets you display greetings.
 
-Reusable library.
 
-Easy to type 'G$()' structure.
+##Features
 
-Supports jQuery.
+- When given a first name, last name and optional language, it generates formal and informal greetings.
+
+- Supports English and Spanish languages.
+
+- Reusable library.
+
+- Easy to type 'G$()' structure.
+
+- Supports jQuery.
