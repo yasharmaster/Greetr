@@ -1,6 +1,6 @@
 #Greetr
 
-A javascript library that lets you display greetings.
+A very basic javascript library written to try advanced javascript features and some clever tricks. The source code is properly commented so you'll definitely learn something new if you bother to read it.
 
 
 ##Features
@@ -14,3 +14,9 @@ A javascript library that lets you display greetings.
 - Easy to type 'G$()' structure.
 
 - Supports jQuery.
+
+
+##Contributing
+
+- Add support of another language.
+
